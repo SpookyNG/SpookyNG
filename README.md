@@ -1,14 +1,14 @@
-Hi @everyone! I'm @SpookyNG.
+[👋] Hello @everyone! I'm @SpookyNG.
 
-I’m interested in many thongs...
+[✨] I'm interested in many things, but mainly in graphic design, AI, and recently in programming.
 
-I’m currently learning python.
+[🎓] I’m currently learning prompt engineering and codding on python.
 
-How to reach me?
+[❔] How to reach me?
 
-orokpo76@gmail.com
+---> orokpo76@gmail.com
 
-spooky_ng (discord)
+---> spooky_ng (discord)
 
 
 <!---
