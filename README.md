@@ -10,6 +10,7 @@
 
 ---> spooky_ng (discord)
 
+[😄] Have a good day!
 
 <!---
 SpookyNG/SpookyNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
