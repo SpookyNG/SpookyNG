@@ -10,6 +10,8 @@
 
 ---> spooky_ng (discord)
 
+---> t.me/Spooky_NG (telegram)
+
 [😄] Have a good day!
 
 <!---
