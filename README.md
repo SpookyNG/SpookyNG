@@ -4,7 +4,7 @@
 
 [🎓] I’m currently learning prompt engineering and codding on python.
 
-[❔] How to reach me?
+[💬] How to reach me?
 
 ---> orokpo76@gmail.com
 
