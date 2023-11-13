@@ -1,6 +1,4 @@
----------------[English / Russian]---------------
-
-[👋] Hello @everyone! I'm @SpookyNG.
+[👋] Hello @everyone! I'm @SpookyNG (English / Russian).
 
 [✨] I'm interested in many things, but mainly in graphic design, AI, and recently in programming.
 
