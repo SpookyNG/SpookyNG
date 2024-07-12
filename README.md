@@ -2,7 +2,7 @@
 
 [✨] I'm interested in many things, but mainly in graphic design, AI, and recently in programming.
 
-[🎓] I’m currently learning codding on python.
+[🎓] I’m currently learning prompt engineering and codding on python.
 
 [💬] How to reach me?
 
